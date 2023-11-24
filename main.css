@@ -447,7 +447,7 @@ header h1 {
     }
 
     .card {
-        margin-left: 6.4em;
+        margin-left: 6em;
         grid-template-columns: 1fr;
         width: calc(90% - 150px);
     }
