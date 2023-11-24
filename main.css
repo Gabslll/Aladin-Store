@@ -447,9 +447,9 @@ header h1 {
     }
 
     .card {
-        margin-left: 6em;
+        margin-left: 5.6em;
         grid-template-columns: 1fr;
-        width: calc(90% - 150px);
+        width: calc(95% - 155px);
     }
 
     .card button {
